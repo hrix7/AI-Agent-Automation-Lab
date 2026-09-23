@@ -40,9 +40,12 @@ python src/file_manifest.py cxr_experiment --output manifest.json
 
 I plan to extend this repository with a biomedical literature organizer, medical-dataset folder validator, and GitHub research-project assistant.
 
-## Author
+## Author and Training Setting
 
-Hritika Adhikary.
+**Hritika Adhikary**  
+AI Accelerator and Professional Training Work  
+Arizona State University  
+2026
 
 ## Rights
 
