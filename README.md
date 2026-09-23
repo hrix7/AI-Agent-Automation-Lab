@@ -42,10 +42,10 @@ I plan to extend this repository with a biomedical literature organizer, medical
 
 ## Author and Training Setting
 
-**Hritika Adhikary**  
-AI Accelerator and Professional Training Work  
-Arizona State University  
-2026
+**Author:** Hritika Adhikary  
+**Training:** AI Accelerator and Professional Training Work  
+**Institution:** Arizona State University  
+**Period:** 2026
 
 ## Rights
 
